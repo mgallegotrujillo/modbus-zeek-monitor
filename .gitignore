@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+logs/
+zeek_logs/
+*.pcap
+*.pcapng
+.env
+.DS_Store
+.vscode/
+.idea/
